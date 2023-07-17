@@ -13,4 +13,5 @@ import java.util.List;
 public class OrderResponse {
     private String orderNumber;
     private List<OrderLineItems> orderLineItems;
+    private String message;
 }

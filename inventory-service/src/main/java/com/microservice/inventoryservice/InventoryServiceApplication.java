@@ -1,8 +1,7 @@
 package com.microservice.inventoryservice;
 
-import com.microservice.inventoryservice.model.Inventory;
-import com.microservice.inventoryservice.repository.InventoryRepository;
-import com.microservice.inventoryservice.service.InventoryService;
+import com.microservice.inventoryservice.service.data.model.Inventory;
+import com.microservice.inventoryservice.service.data.repository.InventoryRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
