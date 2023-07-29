@@ -38,7 +38,7 @@ build/
 .DS_Store
 
 api-gateway/.gitignore
-inventory-service/.gitignore
-order-service/.gitignore
-product-service/.gitignore
-service-discovery/.gitignore
+inventory-service/src/main/resources/application.properties
+order-service/src/main/resources/application.properties
+product-service/src/main/resources/application.properties
+service-discovery/src/main/resources/application.properties
