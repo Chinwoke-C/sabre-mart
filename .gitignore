@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+api-gateway/.gitignore
+inventory-service/.gitignore
+order-service/.gitignore
+product-service/.gitignore
+service-discovery/.gitignore
